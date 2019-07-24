@@ -1,0 +1,61 @@
+baseURL = "https://www.denisazevedo.com.br/"
+languageCode = "en-us"
+title = "Denis C de Azevedo"
+theme = "hugo-resume"
+
+footnoteReturnLinkContents = "↑"
+# summaryLength = 50
+
+[taxonomies]
+    # category = "categories"
+    # tag = "tags"
+
+[params]
+    firstName = "Denis"
+    lastName = "C de Azevedo"
+    address = "Florianopolis/SC, Brazil"
+    phone = "+55 (48) 99176-0460"
+    contactNote = "Senior Backend and Frontend Developer"
+    profileImage = "img/avatar.png"
+    email = "denis.azevedo@gmail.com"
+    description = "Developing software since 1998. Agile, backend, frontend and CI/CD."
+    # favicon = "img/favicon.ico"
+    # what sections
+    # TODO add sections
+    showSkills = true
+    showProjects = false
+    showOpenSource = false
+    showPublications = false
+    showExperience = true
+    showEducation = true
+    showBlog = false
+
+    showQr = true
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/denisazevedo/"
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/denisazevedo/"
+[[params.handles]]
+    name = "Instagram"
+    link = "https://www.instagram.com/denisazevedo/"
+[[params.handles]]
+    name = "Twitter"
+    link = "https://twitter.com/denisazevedo"
+[[params.handles]]
+    name = "Facebook"
+    link = "https://www.facebook.com/denisazevedo"
+[[params.handles]]
+    name = "Stack Overflow"
+    # link = "https://stackoverflow.com/users/story/2056394"
+    link = "https://stackoverflow.com/story/denis-correa-de-azevedo-212413"
+    icon = "stack-overflow"
+# [[params.handles]]
+#     name = "Keybase"
+#     link = "https://keybase.io/denisazevedo"
+#     icon = "keybase"
+
+[params.google.analytics]
+    trackerID = "UA-72318111-1"

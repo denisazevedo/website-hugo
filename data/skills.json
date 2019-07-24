@@ -1,0 +1,46 @@
+[
+  {
+      "grouping":"Architecture",
+      "skills":[
+        { "name":"Microservices" },
+        { "name":"RESTful APIs" },
+        { "name":"git" }
+      ]
+  },
+  {
+      "grouping":"Languages, Operating Systems & Tools",
+      "skills":[
+        { "name":"Java" },
+        { "name":"JavaScript" },
+        { "name":"Python" },
+        { "name":"Node.js" },
+        { "name":"Ionic", "link":"https://ionicframework.com" }
+      ]
+  },
+  {
+      "grouping":"Platform Development & Administration",
+      "skills":[
+        { "name":"Hugo", "link":"https://gohugo.io" },
+        { "name":"Yodlee", "link":"https://www.yodlee.com" },
+        { "name":"Atlassian" }
+      ]
+  },
+  {
+    "grouping":"Containers & Cloud",
+      "skills":[
+          { "name":"Docker", "link":"https://docker.com" },
+          { "name":"Jenkins", "link":"https://jenkins.io" },
+          { "name":"AWS", "link":"https://aws.amazon.com" }
+      ]
+  },
+  {
+    "grouping":"Databases",
+    "skills":[
+      { "name":"DynamoDB", "link":"https://aws.amazon.com/dynamodb" },
+      { "name":"MongoDB", "link":"https://www.mongodb.com" },
+      { "name":"Cassandra", "link":"https://cassandra.apache.org" },
+      { "name":"PostgreSQL" },
+      { "name":"MySQL" }
+    ]
+  }
+]

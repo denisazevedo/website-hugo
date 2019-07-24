@@ -1,0 +1,57 @@
+[
+    {
+        "role":"Developer / Team leader",
+        "company":"e-Core",
+        "url":"https://www.linkedin.com/company/e-core/",
+        "summary":"Working as a contractor at Transamerica.",
+        "range":"August 2001 - Present"
+    },
+    {
+        "role":"Java / Frontend Developer",
+        "company":"Transamerica Corp",
+        "url":"https://www.linkedin.com/company/transamerica/",
+        "summary":"Working from e-Core as a contractor.",
+        "range":"August 2001 - Present"
+    },
+    {
+        "role":"System Analyst",
+        "company":"Dígitro Tecnologia",
+        "url":"https://www.linkedin.com/company/digitro-tecnologia_54966/",
+        "summary":"System Analyst and Frontend developer.",
+        "range":"November 2009 - August 2011"
+    },
+    {
+        "role":"Java Architect / Team leader",
+        "company":"SoftDesign Consultoria e Sistemas",
+        "url":"https://www.linkedin.com/company/softdesignbrasil/",
+        "summary":"Java Architect and team leader.",
+        "range":"February 2006 - September 2009"
+    },
+    {
+        "role":"Java Developer",
+        "company":"Portugal Telecom Inovação Brasil (now Ericsson Inovação)",
+        "url":"https://www.linkedin.com/company/portugal-telecom/about/",
+        "summary":"Java developer contractor from SoftDesign.",
+        "range":"June 2017 - August 2009"
+    },
+    {
+        "role":"Java Developer",
+        "company":"PNUD - ONU",
+        "url":"https://nacoesunidas.org/agencia/pnud/",
+        "summary":"Java developer at PROCERGS as a contractor from PNUD (ONU).",
+        "range":"Octuber 2000 - January 2015"
+    },
+    {
+        "role":"TI Manager, HTML / JavaScript Developer",
+        "company":"Trio Design",
+        "summary":"Worked as a website developer and IT manager at Trio Design (was a graphic design agency in Porto Alegre, Brazil).",
+        "range":"March 2000 - January 2000"
+    },
+    {
+        "role":"HTML / JavaScript Developer",
+        "company":"PROCERGS - Cia de Processamento de Dados do Estado do RS",
+        "url":"https://www.linkedin.com/company/procergs/",
+        "summary":"Website developer trainee, building with DHTML and JavaScript.",
+        "range":"June 1998 - March 2000"
+    }
+]
