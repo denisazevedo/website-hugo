@@ -3,8 +3,9 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>{{ .Title }}</title>
-  <meta property="og:title" content="{{ .Title }}" />
+  {{ $title:= printf "%s | %s" .Title .Site.Params.firstName }}
+  <title>{{ $title }}</title>
+  <meta property="og:title" content="{{ $title }}" />
   <meta property="og:image" content="{{ .Site.Params.profileImage | relURL }}" />
   <meta name="description" content="{{ .Site.Params.description }}">
   <meta property="og:description" content="{{ .Site.Params.description }}" />
