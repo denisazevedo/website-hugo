@@ -28,6 +28,9 @@
    {{ if .Site.Params.showEducation }}
        {{ partial "portfolio/education.html" . }}
    {{ end }}
+   {{ if .Site.Params.showLanguages }}
+       {{ partial "portfolio/languages.html" . }}
+   {{ end }}
    {{ if .Site.Params.showBlog }}
       {{ with .Site.GetPage "section" "blog" }}
          {{ .Scratch.Set "sectionId" "blog" }}

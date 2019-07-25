@@ -1,0 +1,12 @@
+<section class="resume-section p-3 p-lg-5 d-flex flex-column" id="languages">
+  <div class="my-auto" id="languages-content">
+    <h2 class="mb-5">Language proficiency</h2>
+    {{ range .Site.Data.languages }}
+      <div class="mb-3">
+        <span class="subheading mb-3">{{ .language }}</span>
+        <span class="text-primary">({{ .level }})</span>
+      </div>
+    {{ end }}
+
+  {{ partial "back-link.html" . }}
+</section>

@@ -28,6 +28,7 @@ footnoteReturnLinkContents = "↑"
     showPublications = false
     showExperience = true
     showEducation = true
+    showLanguages = true
     showBlog = false
 
     showQr = true
