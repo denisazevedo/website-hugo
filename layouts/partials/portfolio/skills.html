@@ -3,20 +3,20 @@
     <h2 class="mb-5">Skills</h2>
     {{ range $.Site.Data.skills }}
       <div class="subheading mb-3 skills-heading">{{ .grouping }}</div>
-        <ul class="mt-1 skills-list">
-        {{ range .skills }}
-            
-          <li class="list-inline-item">
-            <i class='devicons devicons-{{ cond (in $.Site.Data.devicons (lower (replace .name "." ""))) (lower (replace .name "." "")) "terminal_badge" }}'></i>
-            {{ if isset . "link" }}
-              <a href="{{.link}}" target="_blank">{{ .name }}</a>
-            {{ else }}
-              {{ .name }}
-            {{ end }}
-          </li>
+      <ul class="mt-1 skills-list">
+      {{ range .skills }}
+          
+        <li class="list-inline-item">
+          <i class='devicons devicons-{{ cond (in $.Site.Data.devicons (lower (replace .name "." ""))) (lower (replace .name "." "")) "terminal_badge" }}'></i>
+          {{ if isset . "link" }}
+            <a href="{{.link}}" target="_blank">{{ .name }}</a>
+          {{ else }}
+            {{ .name }}
+          {{ end }}
+        </li>
 
-        {{ end }}
-      </ul>
+      {{ end }}
+    </ul>
   {{ end }}
   </div>
 
