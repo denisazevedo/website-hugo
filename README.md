@@ -7,23 +7,29 @@
 
 <!-- badges: end -->
 
-## Cloning
+## Development
+
+### Cloning
 
 ```sh
 git clone --recursive git@github.com:denisazevedo/website-hugo.git
 ```
 
-## Installing a new theme
+### Installing a new theme
 
 ```sh
 git submodule add git@github.com:eddiewebb/hugo-resume.git themes/hugo-resume
 ```
 
-## Running
+### Running
 
 ```sh
 hugo serve
 ```
+
+### New features / changes
+
+All the commits pushed to `dev` branch will be available to test in [dev.denisazevedo.com.br](http://dev.denisazevedo.com.br).
 
 ## To Do
 
