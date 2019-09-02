@@ -39,6 +39,7 @@
       { "name":"DynamoDB", "link":"https://aws.amazon.com/dynamodb" },
       { "name":"MongoDB", "link":"https://www.mongodb.com" },
       { "name":"Cassandra", "link":"https://cassandra.apache.org" },
+      { "name":"Oracle" },
       { "name":"PostgreSQL" },
       { "name":"MySQL" }
     ]
