@@ -17,15 +17,16 @@ footnoteReturnLinkContents = "↑"
     phone = "+55 (48) 99176-0460"
     contactNote = "Senior Backend and Frontend Developer"
     profileImage = "img/avatar.png"
-    email = "denis.azevedo@gmail.com"
+    email = "denis.azevedo@gmail.com"  # TODO Teste
     description = "Developing software since 1998. Agile, backend, frontend and CI/CD."
     # favicon = "img/favicon.ico"
     # what sections
     # TODO add sections
     showSkills = true
+    # XXX What do do here?
     showProjects = false
     showOpenSource = false
-    showPublications = false
+    showPublications = false # FIXME Corrigir isso!
     showExperience = true
     showEducation = true
     showLanguages = true

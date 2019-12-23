@@ -11,4 +11,5 @@ outputs:
 ---
 
 Developing software since 1998. Agile, backend, frontend and CI/CD.  
+Interested in IoT.  
 Surf and coffee lover.
