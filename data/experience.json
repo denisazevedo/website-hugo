@@ -1,17 +1,24 @@
 [
     {
+        "role":"Chief Technology Officer / Scrum Master",
+        "company":"nKey",
+        "url":"https://www.site.nkey.com.br/",
+        "summary":"CTO and Scrum Master of several projects.",
+        "range":"December 2019 - Current"
+    },
+    {
         "role":"Developer / Team leader",
         "company":"e-Core",
         "url":"https://www.linkedin.com/company/e-core/",
         "summary":"Working as a contractor at Transamerica.",
-        "range":"August 2001 - Present"
+        "range":"August 2001 - December 2019"
     },
     {
         "role":"Java / Frontend Developer",
         "company":"Transamerica Corp",
         "url":"https://www.linkedin.com/company/transamerica/",
         "summary":"Working from e-Core as a contractor.",
-        "range":"August 2001 - Present"
+        "range":"August 2011 - December 2019"
     },
     {
         "role":"System Analyst",
